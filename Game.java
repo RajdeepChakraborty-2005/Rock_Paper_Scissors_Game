@@ -45,8 +45,6 @@ class play {
     }
 
     public void uservsuser(){
-        // Bugs:
-            // If multiple 000 is given then throw invaild
 
         Scanner scan = new Scanner(System.in);
         Console console = System.console();
@@ -304,3 +302,4 @@ public class Game {
         pl.GamePlay();
     }
 }
+
