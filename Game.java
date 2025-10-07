@@ -1,5 +1,3 @@
-package Java.Home;
-
 import java.util.Scanner;
 import java.io.Console;
 import java.util.Random;
@@ -302,4 +300,5 @@ public class Game {
         pl.GamePlay();
     }
 }
+
 
